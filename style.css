@@ -21,6 +21,7 @@ width: 20%;
 .Projeto-Titulo{
 text-align: center;
 padding: 16px 0;
+background-color: crimson;
 
 }
 .projeto-div{
@@ -39,5 +40,6 @@ padding: 12px 0;
     text-align: center;
     background-color: black;
 }
+
 
 
