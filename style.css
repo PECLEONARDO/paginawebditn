@@ -1,4 +1,9 @@
 .cabecalho{
-    background-color: #15025a;
+    background-color: #02115a;
     color: white;
+}
+
+body{
+
+    background-color: blue;
 }
